@@ -1,0 +1,3 @@
+src/setting-reg.v
+src/powertrigger.v
+src/testbench.v
